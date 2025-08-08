@@ -1,8 +1,8 @@
 # striming in Python
 
 Libraries:
-1. pip install kafka-python
-2. pip install pyspark
+1. pip install kafka-python==2.2.15
+2. pip install pyspark==4.0.0
 
 
 ## Example 1
